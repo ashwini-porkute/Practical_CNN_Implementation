@@ -1,5 +1,5 @@
 # Practical_CNN_Implementation
-<img src="![Alt text](yoyo.jpg)" alt="CNN" title="CNN network">
+
 CNN model implemented for cifar10 dataset multiclass classification problem.
 
 CNN.py Script reference taken from "https://www.tensorflow.org/tutorials/images/cnn"
