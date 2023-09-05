@@ -1,6 +1,5 @@
 # Practical_CNN_Implementation
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaturncloud.io%2Fblog%2Fa-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way%2F&psig=AOvVaw2ZI3yZK4iZXWiMuNuMnSLy&ust=1693993063536000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOj0-YqWk4EDFQAAAAAdAAAAABAD)
-
+<img src="![Alt text](yoyo.jpg)" alt="CNN" title="CNN network">
 CNN model implemented for cifar10 dataset multiclass classification problem.
 
 CNN.py Script reference taken from "https://www.tensorflow.org/tutorials/images/cnn"
